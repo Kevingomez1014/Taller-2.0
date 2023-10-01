@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\k12\bin\Debug\net7.0\k12.exe
+C:\Users\Usuario\Desktop\k12\bin\Debug\net7.0\k12.deps.json
+C:\Users\Usuario\Desktop\k12\bin\Debug\net7.0\k12.runtimeconfig.json
+C:\Users\Usuario\Desktop\k12\bin\Debug\net7.0\k12.dll
+C:\Users\Usuario\Desktop\k12\bin\Debug\net7.0\k12.pdb
+C:\Users\Usuario\Desktop\k12\obj\Debug\net7.0\k12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\k12\obj\Debug\net7.0\k12.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\k12\obj\Debug\net7.0\k12.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\k12\obj\Debug\net7.0\k12.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\k12\obj\Debug\net7.0\k12.dll
+C:\Users\Usuario\Desktop\k12\obj\Debug\net7.0\refint\k12.dll
+C:\Users\Usuario\Desktop\k12\obj\Debug\net7.0\k12.pdb
+C:\Users\Usuario\Desktop\k12\obj\Debug\net7.0\k12.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\k12\obj\Debug\net7.0\ref\k12.dll
